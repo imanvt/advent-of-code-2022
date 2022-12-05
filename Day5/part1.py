@@ -35,14 +35,3 @@ with open('input.txt', 'r') as f:
     # print(arr)
     for q in arr:
         print(q.popleft(), end='')
-
-    
-    
-
-   
-    
-            
-    
-        
-        
-        
